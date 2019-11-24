@@ -1,0 +1,11 @@
+A, B, C, D, E, F
+A, B, C, D
+A, B, C, E
+A
+D
+A, C
+A, B
+A, B, C, E, X
+A, B, C, D, E, F, X
+A, B, C, E
+A, B, C, D, E, F
